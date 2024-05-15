@@ -3,7 +3,7 @@
         <scroll-view scroll-y class="page">
             <view class="text-center" :style="[{animation: 'show ' + 0.4+ 's 1'}]">
 				<image src="https://static.jeecg.com/upload/test/login4_1595818039175.png" mode='aspectFit' class="zai-logo "></image>
-				<view class="zai-title text-shadow ">JEECG BOOT </view>
+				<view class="zai-title text-shadow ">你东西丢了 </view>
 			</view>
             <view class="box padding-lr-xl login-paddingtop" :style="[{animation: 'show ' + 0.6+ 's 1'}]">
 				<block v-if="loginWay==1">

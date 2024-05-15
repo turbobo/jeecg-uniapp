@@ -162,6 +162,10 @@
 		},{
 			"path": "pages/common/helloWorld",
 			"style": {}
+		},
+		{
+			"path" : "pages/test/test",
+			"style" : {}
 		}
 		
 	],
